@@ -14,7 +14,7 @@ Telegram File Renamer Bot
 ### Deploye To Heroku ❣️
    heroku uyir 🔥
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PYRO-RENAME-LODER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wolfybotz/Renamerloader)
 
 
 ## Configs 
@@ -48,10 +48,10 @@ broadcast - admin only
 
 ## ❣️Thanks to
 
-<a href="https://t.me/lntechnical">
+<a href="rg">
    <p> lntechnical TG</p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
+<a href="drfg">
    <p> lntechnical YT </p>
   </a>
 

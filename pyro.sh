@@ -245,7 +245,7 @@ export TERM=xterm;  #Copyright (C) 2007 Free Software Foundation, Inc.
 #Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>#Copyright (C) 2007 Free Software Foundation, Inc.      
 #Everyone is permitted to copy and distribute verbatim copies#Copyright (C) 2007 Free Software Foundation, Inc. 
 #of this license document, but changing it is not allowed.
-git clone "${REPO_URL:-https://github.com/PYRO-HIDDEN/Pyro_Renamer-VQ}" Pyro_Renamer-VQ 
+git clone "${REPO_URL:-https://github.com/wolfybotz/Renamer-Main}" Renamer-Main 
 #Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 #Everyone is permitted to copy and distribute verbatim copies
 #of this license document, but changing it is not allowed.
@@ -369,7 +369,7 @@ git clone "${REPO_URL:-https://github.com/PYRO-HIDDEN/Pyro_Renamer-VQ}" Pyro_Ren
 #Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 #Everyone is permitted to copy and distribute verbatim copies
 #of this license document, but changing it is not allowed.       
-cd Pyro_Renamer-VQ  #Copyright (C) 2007 Free Software Foundation, Inc. 
+cd Renamer-Main  #Copyright (C) 2007 Free Software Foundation, Inc. 
 #Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 #Everyone is permitted to copy and distribute verbatim copies
 #of this license document, but changing it is not allowed.
